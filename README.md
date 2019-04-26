@@ -17,4 +17,8 @@ Requires google-chrome (plnned, as same as Marp).
 `VimarpPreview` is to generate a html slide and open it with web-browser.
 Chrome is supposed to be used.
 
+
 ## Design
+
+
+
